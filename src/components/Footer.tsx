@@ -43,7 +43,7 @@ export default function Footer() {
                 <span className="sr-only">WhatsApp</span>
               </a>
               <a
-                href="mailto:info@frostfield.co.ke"
+                href="mailto:info@frostfieldtech.co.ke"
                 className="w-10 h-10 rounded-full bg-slate-200 flex items-center justify-center text-slate-600 hover:bg-primary hover:text-white transition-colors"
                 data-testid="footer-social-email"
               >
@@ -76,10 +76,10 @@ export default function Footer() {
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-slate-400" />
                 <a
-                  href="mailto:info@frostfield.co.ke"
+                  href="mailto:info@frostfieldtech.co.ke"
                   className="hover:text-primary transition-colors"
                 >
-                  info@frostfield.co.ke
+                  info@frostfieldtech.co.ke
                 </a>
               </li>
               <li className="flex items-center gap-2">

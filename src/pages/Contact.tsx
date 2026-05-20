@@ -207,7 +207,7 @@ export default function Contact() {
               "@type": "Organization",
               "name": "Frostfield Tech",
               "url": "https://frostfieldtech.co.ke",
-              "email": "info@frostfield.co.ke",
+              "email": "info@frostfieldtech.co.ke",
               "telephone": "+254713772408",
               "address": {
                 "@type": "PostalAddress",
@@ -287,7 +287,7 @@ export default function Contact() {
                         </div>
                         <div>
                           <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-0.5">Email</div>
-                          <a href="mailto:info@frostfield.co.ke" className="text-slate-800 font-medium hover:text-primary transition-colors text-sm">info@frostfield.co.ke</a>
+                          <a href="mailto:info@frostfieldtech.co.ke" className="text-slate-800 font-medium hover:text-primary transition-colors text-sm">info@frostfieldtech.co.ke</a>
                         </div>
                       </div>
                       <div className="flex items-start gap-4">

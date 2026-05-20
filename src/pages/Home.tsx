@@ -74,7 +74,7 @@ export default function Home() {
             "description": "Professional website design, secure hosting, and managed support for Kenyan SMEs.",
             "url": "https://frostfield.co.ke",
             "telephone": "+254713772408",
-            "email": "info@frostfield.co.ke",
+            "email": "info@frostfieldtech.co.ke",
             "address": {
               "@type": "PostalAddress",
               "addressLocality": "Nairobi",
