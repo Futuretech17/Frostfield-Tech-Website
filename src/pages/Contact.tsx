@@ -315,7 +315,7 @@ export default function Contact() {
                         <div>
                           <div className="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-0.5">Business Hours</div>
                           <span className="text-slate-800 font-medium text-sm block">Mon-Fri: 8:00 AM - 6:00 PM</span>
-                          <span className="text-slate-600 text-sm block">Sat: 9:00 AM - 1:00 PM</span>
+                          <span className="text-slate-600 text-sm block">Sun: 9:00 AM - 1:00 PM</span>
                         </div>
                       </div>
                     </CardContent>
