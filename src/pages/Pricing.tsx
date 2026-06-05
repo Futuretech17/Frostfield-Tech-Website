@@ -450,7 +450,7 @@ export default function Pricing() {
                 </div>
                 <h4 className="font-semibold text-green-900 mb-2 flex items-center justify-center text-lg">M-Pesa Paybill</h4>
                 <p className="text-2xl font-mono font-bold text-green-800 mb-1">522 533</p>
-                <p className="text-sm text-green-700">Account Number: <span className="font-mono font-bold">8012541</span></p>
+                <p className="text-sm text-green-700">Account Number: <span className="font-mono font-bold">8092541</span></p>
                 <p className="text-xs text-green-600 mt-2">Business Name: <strong>Frostfield Tech</strong></p>
               </div>
               
